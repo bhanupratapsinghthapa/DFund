@@ -1,6 +1,6 @@
 # DFund - Decentralized Crowdfunding Platform
 
-A collaborative project developed by Computer Engineering students at ABC University as part of our Final Year Project (2024-2025). DFund is a blockchain-based crowdfunding platform that revolutionizes how we support causes and ideas through transparent and secure fundraising.
+A collaborative project developed by Computer Engineering students at Graphic Era Hill University Bhimtal as part of our Final Year Project (2024-2025). DFund is a blockchain-based crowdfunding platform that revolutionizes how we support causes and ideas through transparent and secure fundraising.
 
 ## Project Overview
 
@@ -30,7 +30,6 @@ As a team of four engineering students, we identified the challenges in traditio
 - **Decentralized Fundraising:** Create and manage fundraising campaigns without intermediaries
 - **Smart Contract Security:** Automated fund distribution based on predefined conditions
 - **Transparent Tracking:** Real-time monitoring of contributions and fund utilization
-- **Low Transaction Fees:** Minimal platform fees compared to traditional crowdfunding
 - **Global Accessibility:** No geographical restrictions for creators or supporters
 
 ## Technologies Used
